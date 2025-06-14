@@ -47,4 +47,3 @@ The project is structured as a monorepo with two main folders: `server` for back
 * PUT /api/courses/:id: Update a course (admin only)
 * DELETE /api/courses/:id: Delete a course (admin only)
 * POST /api/courses/:id/enroll:user.enroll=course
-截至目前，我们在 README.md 文件中添加了更多详细信息，包括实际实现的功能和 API 端点。
